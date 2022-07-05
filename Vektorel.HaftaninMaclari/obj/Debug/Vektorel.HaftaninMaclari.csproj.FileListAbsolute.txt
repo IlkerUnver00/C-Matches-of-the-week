@@ -1,0 +1,6 @@
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.HaftaninMaclari\bin\Debug\Vektorel.HaftaninMaclari.exe.config
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.HaftaninMaclari\bin\Debug\Vektorel.HaftaninMaclari.exe
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.HaftaninMaclari\bin\Debug\Vektorel.HaftaninMaclari.pdb
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.HaftaninMaclari\obj\Debug\Vektorel.HaftaninMaclari.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.HaftaninMaclari\obj\Debug\Vektorel.HaftaninMaclari.exe
+C:\Users\vektorel\Desktop\13 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.HaftaninMaclari\obj\Debug\Vektorel.HaftaninMaclari.pdb
